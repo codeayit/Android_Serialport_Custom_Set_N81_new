@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/luningyuan/Desktop/lny_work/work_SDK/Android_Serialport_Custom_Set_N81-master/app/.cxx/cmake/debug/x86_64",
+  "command": "/Users/luningyuan/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android21 --gcc-toolchain=/Users/luningyuan/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/luningyuan/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dserial_port_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/serial_port.dir/src/main/cpp/serial_port.cpp.o -c /Users/luningyuan/Desktop/lny_work/work_SDK/Android_Serialport_Custom_Set_N81-master/app/src/main/cpp/serial_port.cpp",
+  "file": "/Users/luningyuan/Desktop/lny_work/work_SDK/Android_Serialport_Custom_Set_N81-master/app/src/main/cpp/serial_port.cpp"
+}
+]

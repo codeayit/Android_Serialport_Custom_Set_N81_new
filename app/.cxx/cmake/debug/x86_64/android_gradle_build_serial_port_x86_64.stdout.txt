@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/luningyuan/Desktop/lny_work/work_SDK/Android_Serialport_Custom_Set_N81-master/app/.cxx/cmake/debug/x86_64'
+ninja: no work to do.

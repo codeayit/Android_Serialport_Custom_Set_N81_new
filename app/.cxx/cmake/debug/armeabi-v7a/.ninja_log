@@ -1,0 +1,26 @@
+# ninja log v5
+0	126	1700365693	CMakeFiles/serial_port.dir/src/main/cpp/serial_port.cpp.o	e55a4381da56bcad
+126	170	1700365693	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libserial_port.so	362ff4ccbbd8e6de
+2	68	1702734747	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libserial_port.so	362ff4ccbbd8e6de
+0	21	0	clean	2fe62e8e21309135
+0	313	1709951867	CMakeFiles/serial_port.dir/src/main/cpp/serial_port.cpp.o	e55a4381da56bcad
+314	399	1709951867	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libserial_port.so	362ff4ccbbd8e6de
+0	328	1709952381	CMakeFiles/serial_port.dir/src/main/cpp/serial_port.cpp.o	e55a4381da56bcad
+328	400	1709952381	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libserial_port.so	362ff4ccbbd8e6de
+1	314	1709952642	CMakeFiles/serial_port.dir/src/main/cpp/serial_port.cpp.o	e55a4381da56bcad
+314	386	1709952642	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libserial_port.so	362ff4ccbbd8e6de
+1	292	1709952720	CMakeFiles/serial_port.dir/src/main/cpp/serial_port.cpp.o	e55a4381da56bcad
+292	367	1709952720	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libserial_port.so	362ff4ccbbd8e6de
+1	416	1709952860	CMakeFiles/serial_port.dir/src/main/cpp/serial_port.cpp.o	e55a4381da56bcad
+416	511	1709952860	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libserial_port.so	362ff4ccbbd8e6de
+0	325	1709953047	CMakeFiles/serial_port.dir/src/main/cpp/serial_port.cpp.o	e55a4381da56bcad
+325	397	1709953047	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libserial_port.so	362ff4ccbbd8e6de
+0	303	1709953144	CMakeFiles/serial_port.dir/src/main/cpp/serial_port.cpp.o	e55a4381da56bcad
+303	376	1709953144	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libserial_port.so	362ff4ccbbd8e6de
+0	305	1709953477	CMakeFiles/serial_port.dir/src/main/cpp/serial_port.cpp.o	e55a4381da56bcad
+305	377	1709953477	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libserial_port.so	362ff4ccbbd8e6de
+0	151	1709954718	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libserial_port.so	362ff4ccbbd8e6de
+0	13	0	clean	2fe62e8e21309135
+1	142	1709954799	CMakeFiles/serial_port.dir/src/main/cpp/serial_port.cpp.o	e55a4381da56bcad
+143	208	1709954799	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libserial_port.so	362ff4ccbbd8e6de
+1	141	1709963915	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libserial_port.so	362ff4ccbbd8e6de

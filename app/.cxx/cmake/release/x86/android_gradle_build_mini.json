@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/luningyuan/Library/Android/sdk/ndk/21.1.6352462/build/cmake/platforms.cmake",
+    "/Users/luningyuan/Desktop/lny_work/work_SDK/Android_Serialport_Custom_Set_N81-master/app/CMakeLists.txt",
+    "/Users/luningyuan/Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/luningyuan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/luningyuan/Desktop/lny_work/work_SDK/Android_Serialport_Custom_Set_N81-master/app/.cxx/cmake/release/x86\" clean"
+  ],
+  "buildTargetsCommand": "/Users/luningyuan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/luningyuan/Desktop/lny_work/work_SDK/Android_Serialport_Custom_Set_N81-master/app/.cxx/cmake/release/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "serial_port-Release-x86": {
+      "artifactName": "serial_port",
+      "buildCommand": "/Users/luningyuan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/luningyuan/Desktop/lny_work/work_SDK/Android_Serialport_Custom_Set_N81-master/app/.cxx/cmake/release/x86\" serial_port",
+      "abi": "x86",
+      "output": "/Users/luningyuan/Desktop/lny_work/work_SDK/Android_Serialport_Custom_Set_N81-master/app/build/intermediates/cmake/release/obj/x86/libserial_port.so",
+      "runtimeFiles": []
+    }
+  }
+}

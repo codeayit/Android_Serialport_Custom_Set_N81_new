@@ -1,0 +1,7 @@
+Executable : /Users/luningyuan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/Users/luningyuan/Desktop/lny_work/work_SDK/Android_Serialport_Custom_Set_N81-master/app/.cxx/cmake/debug/x86_64
+serial_port
+jvmArgs : 
+

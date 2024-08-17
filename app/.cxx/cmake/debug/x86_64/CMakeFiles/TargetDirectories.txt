@@ -1,0 +1,3 @@
+/Users/luningyuan/Desktop/lny_work/work_SDK/Android_Serialport_Custom_Set_N81-master/app/.cxx/cmake/debug/x86_64/CMakeFiles/rebuild_cache.dir
+/Users/luningyuan/Desktop/lny_work/work_SDK/Android_Serialport_Custom_Set_N81-master/app/.cxx/cmake/debug/x86_64/CMakeFiles/edit_cache.dir
+/Users/luningyuan/Desktop/lny_work/work_SDK/Android_Serialport_Custom_Set_N81-master/app/.cxx/cmake/debug/x86_64/CMakeFiles/serial_port.dir
